@@ -8,7 +8,9 @@ We will explore the Turkey real estate market data.
 Key concepts we will cover in this clinic:
 
 Ensemble methods - combines multiple Machine learning models into one model
+
 Bagging and Boosting 
+
 Service API to expose endpoints for external data to benchmark against Zestimate using Flask
 
 

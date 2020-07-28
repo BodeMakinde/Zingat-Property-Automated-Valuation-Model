@@ -1,7 +1,8 @@
 # Zingat-Property-Automated-Valuation-Model
 A Basic Automated Valuation Model
 
-Predict the competitve estimate cash offer value of a property
+Predict the competitve estimate cash offer value of a property by buiding an ensemble model to learn
+patterns in the underlying data, without making any assumptions regarding the data
 
 We will explore the Turkey real estate market data.
 

@@ -7,6 +7,7 @@ patterns in the underlying data, without making any assumptions regarding the da
 We will explore the Turkey real estate market data.
 
 Key concepts we will cover in this clinic:
+Data Manipulation: Regex, 
 
 Ensemble methods - combines multiple Machine learning models into one model
 
